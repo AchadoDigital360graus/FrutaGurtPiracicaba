@@ -1,0 +1,103 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_90B0E6D2_DBFA_DB36_41A0_247F1076694D.source = <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3680.3088236811263!2d-47.64092432469516!3d-22.716760079389253!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94c631a26413c4b1%3A0xac18284ac1fa03f6!2sFruta%20Gurt!5e0!3m2!1spt-BR!2sbr!4v1700174781965!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+LinkBehaviour_939B9D3A_DBFB_A977_41C9_5E4063DB0741.source = <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3680.3088236811263!2d-47.64092432469516!3d-22.716760079389253!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94c631a26413c4b1%3A0xac18284ac1fa03f6!2sFruta%20Gurt!5e0!3m2!1spt-BR!2sbr!4v1700174781965!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+LinkBehaviour_D9F19945_CA8E_538E_41E6_95868D9EBD2B.source = https://achadodigital.com.br/pagina-exemplo/
+LinkBehaviour_C52CA2FA_CA9E_367A_41B4_1984A53FD921.source = https://achadodigital360graus.github.io/Portfolio/
+LinkBehaviour_DBDBF71C_CAD6_5F68_41E6_0FF960B7BF15.source = https://achadodigital360graus.github.io/Portfolio/
+LinkBehaviour_FF2027F4_CBF6_3EB8_41E8_9940B739FF2B.source = https://api.whatsapp.com/send?phone=&text=%20https://achadodigital360graus.github.io/FrutaGurtNatal/%20
+LinkBehaviour_F8D540FC_CBF6_32A8_41E2_9977359B8276.source = https://api.whatsapp.com/send?phone=&text=%20https://achadodigital360graus.github.io/FrutaGurtNatal/%20
+LinkBehaviour_FEE59FFC_CBD1_CEA8_41DF_D3C786E5F0D5.source = https://bild.com.br
+LinkBehaviour_DBD76E74_C663_9CBE_41C1_A4F1D0148263.source = https://cardapio.menu/restaurants/piracicaba/fruta-gurt
+LinkBehaviour_B82B0A60_B71E_5208_41B0_B7F11E048E46.source = https://cardapio.menu/restaurants/piracicaba/fruta-gurt
+LinkBehaviour_E1CC3644_D8BD_FB12_41BD_C4C2FA1604F3.source = https://vittaresidencial.com.br/piracicaba
+LinkBehaviour_C954E0FE_D890_ED6F_41E6_29DE2495701B.source = https://vittaresidencial.com.br/piracicaba
+LinkBehaviour_0F8EAD5C_184F_A9A3_41AC_8A7DE16627B3.source = https://vittaresidencial.com.br/piracicaba/imoveis
+LinkBehaviour_E1D61E04_DB6E_6B12_41D9_9DCFE1841926.source = https://vittaresidencial.com.br/piracicaba/imoveis
+LinkBehaviour_D55CD608_CB7E_D168_41DC_634B65E98D0D.source = https://www.bild.com.br/
+LinkBehaviour_DB213E4A_C663_9CEA_41E3_0F5AC7F517E6.source = https://www.facebook.com/FrutaGurt/
+LinkBehaviour_B82AAA5F_B71E_5238_41A9_EFD7B668C80E.source = https://www.facebook.com/FrutaGurt/
+PopupWebFrameBehaviour_E170E4C4_C6E2_EDDE_41D9_A900155C2DA7.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3680.3088236811263!2d-47.64092432469516!3d-22.716760079389253!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94c631a26413c4b1%3A0xac18284ac1fa03f6!2sFruta%20Gurt!5e0!3m2!1spt-BR!2sbr!4v1700089522563!5m2!1spt-BR!2sbr
+PopupWebFrameBehaviour_E13330F8_C63E_E5B6_41C0_E73085E56E8C.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3680.3088236811263!2d-47.64092432469516!3d-22.716760079389253!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94c631a26413c4b1%3A0xac18284ac1fa03f6!2sFruta%20Gurt!5e0!3m2!1spt-BR!2sbr!4v1700089522563!5m2!1spt-BR!2sbr
+LinkBehaviour_ECAB192F_F941_76BB_41C6_38BA21A27C16.source = https://www.instagram.com/frutagurt/
+LinkBehaviour_B82A7A5F_B71E_5238_41E2_3E1754F4F65A.source = https://www.instagram.com/frutagurt/
+LinkBehaviour_DB21EE49_C663_9CD6_41CB_4B989DF59E7C.source = https://www.instagram.com/frutagurt/
+LinkBehaviour_F24FF50D_CB53_D36B_41E8_D521CC4A6308.source = https://www.instagram.com/frutagurt/
+
+## Media
+
+### Audio
+audiores_C7695016_D5E2_200E_41CC_073E6F55DD32.mp3Url = media/audio_C777346D_D5E2_E002_41B8_59881152567D_pt.mp3
+
+### Title
+panorama_191A66BE_17C1_B8DF_419E_138B4AA4CF90.label = Balcão  sorvete caixas EDI
+panorama_096B2397_1843_98AD_41B0_F25BAAA49DC5.label = Balcão soverte Urso EDI
+photo_9CBEFAAE_D705_9D82_41DC_73F725655CFC.label = DSC05068
+photo_9CBEFAAE_D705_9D82_41DC_73F725655CFC.label = DSC05068
+photo_903EA743_D705_B482_41DD_78268AC0E578.label = DSC05078
+photo_903EA743_D705_B482_41DD_78268AC0E578.label = DSC05078
+photo_903CF596_D705_9782_418F_53C62FE0515C.label = DSC05111
+photo_903CF596_D705_9782_418F_53C62FE0515C.label = DSC05111
+photo_903CF39A_D705_F382_41E6_5EE4CED89780.label = DSC05263
+photo_903CF39A_D705_F382_41E6_5EE4CED89780.label = DSC05263
+photo_903CCFE2_D705_F382_41D0_AE95B351EABF.label = DSC05265
+photo_903CCFE2_D705_F382_41D0_AE95B351EABF.label = DSC05265
+photo_903C8E93_D705_9583_41A4_E7FFEC4FC7BB.label = DSC05280
+photo_903C8E93_D705_9583_41A4_E7FFEC4FC7BB.label = DSC05280
+photo_903CAAE7_D705_BD83_41E1_CEC49DAA0F60.label = DSC05286
+photo_903CAAE7_D705_BD83_41E1_CEC49DAA0F60.label = DSC05286
+album_DDD21709_C662_6C56_41D1_8FB894FE77DD_2.label = Fachada
+panorama_D1147030_C666_A4B6_41C3_C6FBE6780DED.label = Toten 2
+album_DDD21709_C662_6C56_41D1_8FB894FE77DD.label = Álbum de Fotos Ambiente
+
+## Skin
+
+### Button
+Button_6B3DCC00_647A_DF9A_41D5_DC120403F72A.label = COMPARTILHAR
+Button_6B3DCC00_647A_DF9A_41D5_DC120403F72A_mobile.label = COMPARTILHAR
+Button_748008CC_648F_B8AA_41C2_97E5C5DE0CD2_mobile.label = IMAGENS
+Button_748008CC_648F_B8AA_41C2_97E5C5DE0CD2.label = IMAGENS
+Button_750C11A1_648F_A89A_41C9_2E58278A81A6.label = INFO
+Button_750C11A1_648F_A89A_41C9_2E58278A81A6_mobile.label = INFO
+Button_6B3517BB_64A6_3EE4_41D7_49868CE9F7A9_mobile.label = LOCAL
+Button_6B3517BB_64A6_3EE4_41D7_49868CE9F7A9.label = LOCAL
+Button_C51E9B9A_D8DB_E937_41E9_B7807E78B402.label = Piracicaba
+Button_7DE3659A_6911_E2E0_41C3_93316288CBE4_mobile.label = SAIBA MAIS
+Button_7DE3659A_6911_E2E0_41C3_93316288CBE4.label = SAIBA MAIS
+
+### Image
+Image_6924E557_649A_33AC_41BA_A1E22386BC22_mobile.url = skin/Image_6924E557_649A_33AC_41BA_A1E22386BC22_mobile_pt.png
+Image_6924E557_649A_33AC_41BA_A1E22386BC22.url = skin/Image_6924E557_649A_33AC_41BA_A1E22386BC22_pt.png
+Image_7DE3B59A_6911_E2E0_41D3_E1AF7DF208C7_mobile.url = skin/Image_7DE3B59A_6911_E2E0_41D3_E1AF7DF208C7_mobile_pt.jpg
+Image_7DE3B59A_6911_E2E0_41D3_E1AF7DF208C7.url = skin/Image_7DE3B59A_6911_E2E0_41D3_E1AF7DF208C7_pt.jpg
+Image_C7CE994B_C85A_F038_41E2_3AF318B868FE.url = skin/Image_C7CE994B_C85A_F038_41E2_3AF318B868FE_pt.jpg
+Image_C9E17740_D890_1491_41E1_FEE18D6683D0.url = skin/Image_C9E17740_D890_1491_41E1_FEE18D6683D0_pt.png
+Image_D30AEFD0_CAD6_4EF8_41D4_D15E91CC9609.url = skin/Image_D30AEFD0_CAD6_4EF8_41D4_D15E91CC9609_pt.png
+Image_D5297EA0_C621_9C56_41C6_B2B80C835C1D_mobile.url = skin/Image_D5297EA0_C621_9C56_41C6_B2B80C835C1D_mobile_pt.png
+Image_D52FA583_C622_6C5A_41E7_8ADADCCA5FAF_mobile.url = skin/Image_D52FA583_C622_6C5A_41E7_8ADADCCA5FAF_mobile_pt.png
+Image_D52FA583_C622_6C5A_41E7_8ADADCCA5FAF.url = skin/Image_D52FA583_C622_6C5A_41E7_8ADADCCA5FAF_pt.png
+Image_DA20D4DA_CAD6_52E8_41E4_5C62534F1F5A.url = skin/Image_DA20D4DA_CAD6_52E8_41E4_5C62534F1F5A_pt.png
+Image_DB799C2B_CA8D_F19A_41E6_5490BA675159.url = skin/Image_DB799C2B_CA8D_F19A_41E6_5490BA675159_pt.png
+Image_DBD2FAEA_CA96_D69A_41D7_5AAC5DD58B9C.url = skin/Image_DBD2FAEA_CA96_D69A_41D7_5AAC5DD58B9C_pt.png
+Image_E331B20F_D8A6_5B2E_41DF_39EA615F78C1.url = skin/Image_E331B20F_D8A6_5B2E_41DF_39EA615F78C1_pt.png
+Image_EFF9630D_D8EB_B912_41E5_335DB1A2DE10.url = skin/Image_EFF9630D_D8EB_B912_41E5_335DB1A2DE10_pt.png
+Image_F1D7BEB5_CB52_CEB8_41E5_82068AB7954B.url = skin/Image_F1D7BEB5_CB52_CEB8_41E5_82068AB7954B_pt.png
+Image_F7D9F588_C6E6_AC56_41D8_70FDC2B44CE2.url = skin/Image_F7D9F588_C6E6_AC56_41D8_70FDC2B44CE2_pt.jpg
+
+### Multiline Text
+HTMLText_7DE3759A_6911_E2E0_41A7_C2659986BA1F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.900000000000004vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.9vw;word-break:break-word;font-family:'Exo';"><B><I>FRUTA GURT</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.45vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.4499999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000cc;font-size:1.45vw;word-break:break-word;font-family:'Exo';"><B><I>Sobre Fruta Gurt</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.4499999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000cc;font-size:1.45vw;word-break:break-word;font-family:'Exo';"><B><I>O Fruta Gurt é o lugar certo para você curtir gelatos, iogurtes, açaí e muito mais com sua família e amigos!</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.4499999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000cc;font-size:1.45vw;word-break:break-word;font-family:'Exo';"><B><I>Para você que gosta de produtos deliciosos e saudáveis, venha conhecer os nossos:</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.45vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.4499999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000cc;font-size:1.45vw;word-break:break-word;font-family:'Exo';"><B><I>- Frozen Yogurt (0% gordura; baixa caloria);</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.4499999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000cc;font-size:1.45vw;word-break:break-word;font-family:'Exo';"><B><I>- Gelato Italiano (0% gordura hidrogenada; matéria-prima italiana);</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.4499999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000cc;font-size:1.45vw;word-break:break-word;font-family:'Exo';"><B><I>- Stecco (Gelato italiano no palito, com calda e toppings variados);</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.4499999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000cc;font-size:1.45vw;word-break:break-word;font-family:'Exo';"><B><I>- Açaí Premium (O mais puro Açaí e adoçado com mel);</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.4499999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000cc;font-size:1.45vw;word-break:break-word;font-family:'Exo';"><B><I>- Café Illy (Qualidade superior em café);</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.4499999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000cc;font-size:1.45vw;word-break:break-word;font-family:'Exo';"><B><I>- Chocolate Quente (Disponível no inverno).</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.45vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_7DE3759A_6911_E2E0_41A7_C2659986BA1F_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.900000000000004vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.9vw;word-break:break-word;font-family:'Exo';"><B><I>FRUTA GURT</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.37vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:8.16vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:2.365312500000002vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#048be1;font-size:2.37vw;word-break:break-word;font-family:'Exo';"><B><I>Sobre Fruta Gurt</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:2.365312500000002vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#048be1;font-size:2.37vw;word-break:break-word;font-family:'Exo';"><B><I>O Fruta Gurt é o lugar certo para você curtir gelatos, iogurtes, açaí e muito mais com sua família e amigos!</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:2.365312500000002vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#048be1;font-size:2.37vw;word-break:break-word;font-family:'Exo';"><B><I>Para você que gosta de produtos deliciosos e saudáveis, venha conhecer os nossos:</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.37vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:8.16vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:2.365312500000002vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#048be1;font-size:2.37vw;word-break:break-word;font-family:'Exo';"><B><I>- Frozen Yogurt (0% gordura; baixa caloria);</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:2.365312500000002vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#048be1;font-size:2.37vw;word-break:break-word;font-family:'Exo';"><B><I>- Gelato Italiano (0% gordura hidrogenada; matéria-prima italiana);</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:2.365312500000002vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#048be1;font-size:2.37vw;word-break:break-word;font-family:'Exo';"><B><I>- Stecco (Gelato italiano no palito, com calda e toppings variados);</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:2.365312500000002vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#048be1;font-size:2.37vw;word-break:break-word;font-family:'Exo';"><B><I>- Açaí Premium (O mais puro Açaí e adoçado com mel);</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:2.365312500000002vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#048be1;font-size:2.37vw;word-break:break-word;font-family:'Exo';"><B><I>- Café Illy (Qualidade superior em café);</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:2.365312500000002vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#048be1;font-size:2.37vw;word-break:break-word;font-family:'Exo';"><B><I>- Chocolate Quente (Disponível no inverno).</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.97vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:8.16vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.45vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.21vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.45vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_6BDD8039_64A6_31E4_41D7_D3C38C6C69F2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 10px rgba(0,0,0,0.6);text-align:left;font-size:6.5600000000000085vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#ffffff;font-size:6.56vmin;word-break:break-word;font-family:'Exo';"><B><I>Piracicaba</I></B></SPAN></SPAN></DIV></div>
+HTMLText_6BDD8039_64A6_31E4_41D7_D3C38C6C69F2_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 5px rgba(0,0,0,0.6);text-align:left;font-size:6.5600000000000085vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#ffffff;font-size:6.56vmin;word-break:break-word;font-family:'Exo';"><B><I>Piracicaba</I></B></SPAN></SPAN></DIV></div>
+HTMLText_9F787556_DBAE_F93F_41B0_B0EC553F6291.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 1px 27px rgba(0,0,0,1);text-align:center;font-size:23px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:23px;word-break:break-word;"><B>Piracicaba</B></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+tour.description = PIRACICABA
+
+### Title
+tour.name = FRUTA GURT 
